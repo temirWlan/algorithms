@@ -1,0 +1,21 @@
+{ 
+	"parserOptions": { 
+		"ecmaVersion": 9,
+		"sourceType": "module" 
+	},
+	"rules": {
+      "semi": "error"
+   },
+   "env": {
+      "browser": true,
+      "node": true
+   },
+   "extends": [
+      "airbnb-base"
+  ],
+   "parserOptions": {
+      "ecmaVersion": 2018,
+      "sourceType": "module"
+  },
+  "parser": "babel-eslint"
+}
