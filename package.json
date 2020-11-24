@@ -1,0 +1,23 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "algorithms solutions ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temirWlan/algorithms.git"
+  },
+  "author": "Temirlan Balguzhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temirWlan/algorithms/issues"
+  },
+  "homepage": "https://github.com/temirWlan/algorithms#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
